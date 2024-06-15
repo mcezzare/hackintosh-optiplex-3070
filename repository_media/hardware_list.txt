@@ -1,0 +1,72 @@
+─ CPU
+  └── Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+      ├── Cores: 6 cores
+      ├── Threads: 12 threads
+      ├── SSE: SSE4.2
+      └── SSSE3: Supported
+
+─ Vendor
+  ├── Model: iMac19,1
+  └── Manufacturer: Acidanthera
+
+─ GPU
+  └── Intel UHD Graphics 630
+      ├── Vendor ID: 0x8086
+      ├── Device ID: 0x3e9b
+      ├── PCI Path: PciRoot(0x0)/Pci(0x2,0x0)
+      └── ACPI Path: \_SB.PCI0.GFX0
+
+─ Network
+  └── RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+      ├── Device ID: 0x8168
+      ├── Vendor: 0x10ec
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1c,0x0)/Pci(0x0,0x0)
+      └── ACPI Path: \_SB.PCI0.RP05.PXSX
+
+─ Audio
+  └── Cannon Lake PCH cAVS
+      ├── Device ID: 0xa348
+      ├── Vendor: 0x8086
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1f,0x3)
+      └── ACPI Path: \_SB.PCI0.HDAS
+
+─ Input
+  ├── Keyboard
+  │   ├── Device ID: 0xffff
+  │   └── Vendor: 0x5ac
+  ├── MicrosoftÆ 2.4GHz Transceiver v6.0 (USB)
+  │   ├── Device ID: 0x745
+  │   └── Vendor: 0x45e
+  ├── USB Audio CODEC  (USB)
+  │   ├── Device ID: 0x2900
+  │   └── Vendor: 0x8bb
+  └── USB Optical Mouse (USB)
+      ├── Device ID: 0xc05a
+      └── Vendor: 0x46d
+
+─ Storage
+  ├── PC SN520 NVMe WDC 128GB
+  │   ├── Type: Non-Volatile Memory Express (NVMe)
+  │   ├── Connector: PCI-Express
+  │   └── Location: Internal
+  └── KINGSTON SA400S37480G
+      ├── Type: Solid State Drive (SSD)
+      ├── Connector: SATA
+      └── Location: Internal
+
+─ Displays
+  ├── LGTV 
+  │   ├── Product ID: 0x5696
+  │   ├── Vendor ID: 0x1e6d
+  │   ├── Serial: 0
+  │   ├── Resolution: 1680x1050
+  │   ├── Size (in inches): 22”
+  │   └── Display mode: Landscape
+  └── DELLP2219H 
+      ├── Product ID: 0xa114
+      ├── Vendor ID: 0x10ac
+      ├── Serial: 808473932
+      ├── Resolution: 1344x1080
+      ├── Size (in inches): 22”
+      └── Display mode: Landscape
+
