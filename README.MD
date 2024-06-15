@@ -67,3 +67,15 @@ Check https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.ht
 
 Good luck, patience, It may be work, but it's worth it.
 
+
+My Suggestion  
+Download the latest version of OpenCore-debug and RTFM (read the docs) [here](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
+
+Start with docs following step by step to configure your config.plist with ProperTree.
+
+Use this EFI folder as bkp or create a Linux Pen drive to boot the machine, if necessary fix the Efi folder in case of Kernel Panic on reboot.
+
+I left the entire history in git of step by step in this repository to "educational purposes"
+![git_history](/repository_media/git_history.png)
+
+
