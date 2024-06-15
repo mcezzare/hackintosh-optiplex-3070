@@ -67,6 +67,15 @@ Check https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.ht
 
 Good luck, patience, It may be work, but it's worth it.
 
+**Important**
+
+## BIOS Settings
+- General → Advanced Boot Options: uncheck 
+- System Configuration → SATA Operation: AHCI 
+- Secure Boot → Secure Boot Enable: Disabled 
+- Intel® Software Guard Extensions™ → Intel® SGX™ Enable: Disabled 
+- Power Management → Block Sleep: check 
+- Virtualization Support → VT for Direct I/O: uncheck
 
 My Suggestion  
 Download the latest version of OpenCore-debug and RTFM (read the docs) [here](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
