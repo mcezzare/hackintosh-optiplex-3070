@@ -74,7 +74,7 @@ Good luck, patience, It may be work, but it's worth it.
 - System Configuration → SATA Operation: AHCI 
 - Secure Boot → Secure Boot Enable: Disabled 
 - Intel® Software Guard Extensions™ → Intel® SGX™ Enable: Disabled 
-- Power Management → Block Sleep: check 
+- Power Management → Block Sleep: uncheck 
 - Virtualization Support → VT for Direct I/O: uncheck
 
 My Suggestion  
