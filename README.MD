@@ -27,7 +27,7 @@ sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstall
 
 And before testing, correct the snippet of the config.plist file using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your values. A good explanation is described [here](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios) 
 
-**DON'T USE THIS VALUES FOR YOU, PLEASE**
+**DON'T USE THE VALUES IN THIS REPOSITORY FOR YOU, PLEASE GENERATE YOURS**
 
 ```xml
 	<key>PlatformInfo</key>
